@@ -1,8 +1,8 @@
-# Flutter Weather App
+## Flutter Weather App
 
 This app is integrated with the OpenWeatherMap API to fetch the weather conditions of different cities around the world.
 
-# Screenshots
+### Screenshots
 
 ![bengaluru_weather](https://user-images.githubusercontent.com/48543567/91748030-e70ddf80-ebdc-11ea-84a0-00d6686e5350.png)
 
